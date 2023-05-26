@@ -1,5 +1,4 @@
 # SQL11mo
----
 
 ## Objetio del Repositorio:
 
